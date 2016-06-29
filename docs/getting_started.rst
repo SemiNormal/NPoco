@@ -1,7 +1,7 @@
 Getting Started
 ===============
 
-NPoco is installed via nuget using the following command:
+NPoco is installed via nuget using the following command::
 
     PM> Install-Package NPoco 
 
